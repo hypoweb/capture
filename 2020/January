@@ -1,5 +1,6 @@
 http://24.207.162.168:43534/Mozi.a
 http://27.207.172.194:55196/Mozi.m
+http://41.86.18.171:51309/Mozi.a
 http://42.225.147.215:34857/Mozi.m
 http://42.235.84.108:55321/Mozi.m
 http://42.235.155.126:44291/Mozi.m
@@ -102,3 +103,9 @@ http://startbinmanager.epelcdn.com/dd09162/init.sh
 http://172.245.184.164/SnOoPy.sh
 http://107.173.171.123/sh.sh
 http://45.143.138.112/Pemex.sh
+http://178.79.134.207/bot.sparc
+http://178.79.134.207/bot.mipsel
+http://178.79.134.207/bot.mips
+http://178.79.134.207/bot.x86_64
+http://178.79.134.207/bot.arm5
+http://178.79.134.207/bot.arm7 
