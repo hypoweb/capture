@@ -17,6 +17,7 @@ http://77.69.103.37:51897/Mozi.m
 http://95.32.22.92:53682/Mozi.m
 http://103.91.245.55:36917/Mozi.m
 http://103.102.102.133:43031/Mozi.m
+http://103.217.121.34:39703/Mozi.m
 http://103.217.121.253:54358/Mozi.m
 http://103.217.121.223:34650/Mozi.m
 http://111.92.80.42:43188/Mozi.m
@@ -25,6 +26,7 @@ http://111.184.180.46:52304/Mozi.m
 http://112.27.123.173:57338/Mozi.a
 http://112.81.210.30:36771/Mozi.m
 http://112.105.115.253:51924/Mozi.m
+http://113.116.206.182:49248/Mozi.a
 http://114.30.54.56:3262/Mozi.m
 http://115.48.176.70:52967/Mozi.m
 http://115.49.75.10:59325/Mozi.m
@@ -235,3 +237,14 @@ http://98.159.105.55/3308
 http://98.159.105.55/3309 
 http://98.159.105.55/8000
 http://98.159.105.55/8080 
+http://185.239.242.241/bins/Tsunami.arm
+http://185.239.242.241/bins/Tsunami.arm5 
+http://185.239.242.241/bins/Tsunami.arm6
+http://185.239.242.241/bins/Tsunami.arm7 
+http://185.239.242.241/bins/Tsunami.m68k 
+http://185.239.242.241/bins/Tsunami.mips 
+http://185.239.242.241/bins/Tsunami.mpsl 
+http://185.239.242.241/bins/Tsunami.ppc 
+http://185.239.242.241/bins/Tsunami.sh4 
+http://185.239.242.241/bins/Tsunami.spc
+http://185.239.242.241/bins/Tsunami.x86 
