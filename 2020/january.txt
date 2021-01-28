@@ -92,7 +92,6 @@ http://185.172.111.214/bins/UnHAnaAW.x86
 http://37.49.230.223/KillerSecurity/K1lLeR.arm
 http://45.145.185.229/bins/keksec.mips
 http://164.132.92.168:6479/bins/viktor.mips
-
 http://172.245.180.177/qlcxvbins.sh
 http://208.123.209.58/Fourloko.sh
 http://185.10.68.211/Fourloko.sh
