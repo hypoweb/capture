@@ -1,4 +1,6 @@
+http://1.222.177.240:2377/Mozi.m 
 http://59.92.182.187:56288/Mozi.m
+http://112.30.38.19:46439/Mozi.m
 http://183.83.17.185:44447/Mozi.m
 http://222.138.96.98:51553/Mozi.m
 http://193.109.217.15/bins/Astra.arm7
@@ -39,3 +41,4 @@ http://205.185.126.195/a/armv7l
 http://205.185.126.195/a/i586
 http://205.185.126.195/a/mips
 http://205.185.126.195/a/mipsel
+http://23.94.24.13/fuckjewishpeople.sh
