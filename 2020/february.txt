@@ -16,6 +16,8 @@ http://193.109.217.15/bins/Astra.arm7
 http://192.210.239.115/beastmode/b3astmode.arm7
 http://45.130.138.17/w.sh
 http://45.130.138.17/c.sh
+http://45.130.138.32/w.sh
+http://45.130.138.32/c.sh
 http://45.130.138.37/w.sh
 http://45.130.138.37/c.sh
 http://45.130.138.37/arc  
