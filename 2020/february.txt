@@ -135,3 +135,15 @@ http://51.116.180.169/SBIDIOT/rtk
 http://51.116.180.169/SBIDIOT/sh4 
 http://51.116.180.169/SBIDIOT/zte 
 http://23.94.99.40/HEREbins.sh
+http://209.141.48.55/armv4l 
+http://209.141.48.55/armv5l 
+http://209.141.48.55/armv6l 
+http://209.141.48.55/i586 
+http://209.141.48.55/i686 
+http://209.141.48.55/m68k 
+http://209.141.48.55/mips 
+http://209.141.48.55/mipsel 
+http://209.141.48.55/powerpc 
+http://209.141.48.55/sh4
+http://209.141.48.55/sparc 
+http://209.141.48.55/x86 
