@@ -1,5 +1,6 @@
 http://1.222.177.240:2377/Mozi.m
 http://41.215.154.47:53149/Mozi.m
+http://42.225.28.110:37135/Mozi.a
 http://45.176.108.212:47358/Mozi.m
 http://45.229.54.160:56094/Mozi.m
 http://59.92.182.187:56288/Mozi.m
@@ -7,9 +8,11 @@ http://59.99.94.157:43689/Mozi.m
 http://112.30.38.19:46439/Mozi.m
 http://113.102.131.145:51237/Mozi.a
 http://117.222.163.5:40598/Mozi.m
+http://182.113.214.158:51715/Mozi.m
 http://183.83.17.185:44447/Mozi.m
 http://202.164.139.188:33174/Mozi.m
 http://222.138.96.98:51553/Mozi.m
+http://27.41.36.36:47277/i
 http://221.160.177.49:2522/i
 http://37.46.150.160/bins/Astra.arm7
 http://193.109.217.15/bins/Astra.arm7
@@ -147,3 +150,12 @@ http://209.141.48.55/powerpc
 http://209.141.48.55/sh4
 http://209.141.48.55/sparc 
 http://209.141.48.55/x86 
+http://199.19.226.25/wget
+http://199.19.226.25/bwget
+http://199.19.226.25/curl
+http://199.19.226.25/bcurl
+http://199.19.226.25/nXejnFjen/i586 
+http://199.19.226.25/nXejnFjen/mips 
+http://199.19.226.25/nXejnFjen/mipsel 
+http://199.19.226.25/nXejnFjen/armv4l 
+http://199.19.226.25/nXejnFjen/armv7l 
