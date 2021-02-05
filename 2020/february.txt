@@ -203,3 +203,17 @@ http://176.123.7.10/fuckjewishpeople.arm4
 http://176.123.7.10/fuckjewishpeople.arm5
 http://176.123.7.10/fuckjewishpeople.arm6
 http://176.123.7.10/fuckjewishpeople.arm7 
+http://37.120.222.43/totonix.sh
+http://37.120.222.43/titanic.mips
+http://37.120.222.43/titanic.mpsl
+http://37.120.222.43/titanic.sh4
+http://37.120.222.43/titanic.x86
+http://37.120.222.43/titanic.arm6
+http://37.120.222.43/titanic.x32
+http://37.120.222.43/titanic.arm7
+http://37.120.222.43/titanic.ppc
+http://37.120.222.43/titanic.i586
+http://37.120.222.43/titanic.m68k
+http://37.120.222.43/titanic.pj
+http://37.120.222.43/titanic.arm4
+http://37.120.222.43/titanic.arm5
