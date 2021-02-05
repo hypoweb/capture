@@ -217,3 +217,4 @@ http://37.120.222.43/titanic.m68k
 http://37.120.222.43/titanic.pj
 http://37.120.222.43/titanic.arm4
 http://37.120.222.43/titanic.arm5
+http://178.33.145.40/bomba.x86 
