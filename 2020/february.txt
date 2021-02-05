@@ -180,3 +180,16 @@ http://185.172.110.235/puto/puto.arm7
 http://185.172.110.235/puto/puto.mips 
 http://185.172.110.235/puto/puto.mipsel 
 http://185.172.110.235/puto/puto.x86 
+http://34.91.211.86/gaypeoplebins.sh
+http://34.91.211.86/mips.fuck
+http://34.91.211.86/mipsel.fuck 
+http://34.91.211.86/sh4.fuck 
+http://34.91.211.86/x86.fuck
+http://34.91.211.86/armv6l.fuck
+http://34.91.211.86/i686.fuck
+http://34.91.211.86/powerpc.fuck
+http://34.91.211.86/i586.fuck
+http://34.91.211.86/m68k.fuck
+http://34.91.211.86/sparc.fuck
+http://34.91.211.86/armv4l.fuck
+http://34.91.211.86/armv5l.fuck
