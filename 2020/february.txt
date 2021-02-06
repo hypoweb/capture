@@ -252,3 +252,17 @@ https://cdn.discordapp.com/attachments/807541462757539854/807541863375568907/wor
 https://cdn.discordapp.com/attachments/807541462757539854/807541863375568907/world.ppc 
 https://cdn.discordapp.com/attachments/807541462757539854/807541863375568907/world.spc
 https://cdn.discordapp.com/attachments/807541462757539854/807541863375568907/world.sh4 
+http://5.83.45.138/w.sh
+http://5.83.45.138/c.sh
+http://5.83.45.138/arm 
+http://5.83.45.138/arm5
+http://5.83.45.138/arm6 
+http://5.83.45.138/arm7 
+http://5.83.45.138/sh4 
+http://5.83.45.138/arc 
+http://5.83.45.138/mips 
+http://5.83.45.138/mipsel 
+http://5.83.45.138/sparc 
+http://5.83.45.138/x86_64 
+http://5.83.45.138/i686
+http://5.83.45.138/i585
