@@ -391,3 +391,8 @@ http://163.172.234.205/SBIDIOT/zte
 http://163.172.234.205/SBIDIOT/spc 
 http://163.172.234.205/SBIDIOT/yarn 
 http://142.93.197.119/lol.sh 
+http://185.10.68.127/rtbin
+http://5.252.194.29/wget
+http://5.252.194.29/bwget
+http://5.252.194.29/curl 
+http://5.252.194.29/bcurl 
