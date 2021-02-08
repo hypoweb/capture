@@ -40,7 +40,9 @@ http://187.102.150.90:9412/.i
 http://221.160.177.49:2522/i
 http://37.46.150.160/bins/Astra.arm7
 http://193.109.217.15/bins/Astra.arm7
-http://45.148.122.143/beastmode/b3astmode.arm7  
+http://45.148.122.143/beastmode/b3astmode.arm7 
+http://185.239.242.5/beastmode/b3astmode.arm7 
+http://192.3.67.106/beastmode/b3astmode.arm7
 http://192.210.239.115/beastmode/b3astmode.arm7
 http://45.130.138.17/w.sh
 http://45.130.138.17/c.sh
