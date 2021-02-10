@@ -2,17 +2,24 @@ http://1.222.177.240:2377/Mozi.m
 http://41.86.5.232:38275/Mozi.a
 http://41.215.154.47:53149/Mozi.m
 http://42.225.28.110:37135/Mozi.a
+http://42.236.215.247:59273/Mozi.m
 http://45.176.108.212:47358/Mozi.m
 http://45.229.54.160:56094/Mozi.m
 http://45.229.55.122:52251/Mozi.m
 http://49.72.240.79:60115/Mozi.m 
+http://58.249.91.89:55930/Mozi.m 
 http://58.252.178.254:34429/Mozi.m
+http://59.92.180.118:40913/Mozi.m
 http://59.92.182.187:56288/Mozi.m
 http://59.93.21.137:53763/Mozi.m
 http://59.99.94.157:43689/Mozi.m
+http://60.10.85.95:44103/Mozi.m
+http://60.176.245.87:37848/Mozi.a
 http://81.192.192.254:47736/Mozi.m
+http://94.25.158.243:45593/.i
 http://101.0.49.179:33538/Mozi.m
 http://103.110.171.72:46590/Mozi.m
+http://208.95.160.207:39890/Mozi.m
 http://112.30.1.155:58568/Mozi.m 
 http://112.30.38.19:46439/Mozi.m
 http://113.102.131.145:51237/Mozi.a
@@ -20,6 +27,7 @@ http://115.61.124.138:47806/Mozi.m
 http://115.48.207.243:54929/Mozi.m
 http://117.222.163.5:40598/Mozi.m
 http://123.5.186.65:43752/Mozi.m
+http://123.183.119.76:36931/Mozi.m
 http://125.41.119.37:44672/Mozi.m
 http://125.42.126.236:56888/Mozi.m
 http://171.83.211.52:35712/Mozi.m
@@ -44,6 +52,8 @@ http://45.148.122.143/beastmode/b3astmode.arm7
 http://185.239.242.5/beastmode/b3astmode.arm7 
 http://192.3.67.106/beastmode/b3astmode.arm7
 http://192.210.239.115/beastmode/b3astmode.arm7
+http://45.145.185.221:8082/bins/mirai.arm
+http://159.65.222.61/sh 
 http://45.130.138.17/w.sh
 http://45.130.138.17/c.sh
 http://45.130.138.37/w.sh
@@ -312,6 +322,7 @@ http://5.252.194.137/wget
 http://5.252.194.137/bwget
 http://5.252.194.137/bcurl
 http://5.252.194.137/curl
+http://45.151.61.216/incubusdream.sh
 http://193.239.147.105/incubusdream.sh 
 http://193.239.147.105/incubusdream.mips 
 http://193.239.147.105/incubusdream.mpsl 
@@ -422,3 +433,5 @@ http://45.145.185.100/LpKDJb/pxSd.sh4
 http://45.145.185.100/LpKDJb/pxSd.spc
 http://45.145.185.100/LpKDJb/pxSd.x86
 http://45.145.185.100/LpKDJb/pxSd.x86_64
+http://185.172.111.214/bins/UnHAnaAW.x86 
+http://185.178.208.186/Pemex.sh  
