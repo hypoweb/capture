@@ -479,3 +479,17 @@ http://107.174.217.134/bins/Simps.powerpc
 http://107.174.217.134/bins/Simps.sh4 
 http://107.174.217.134/bins/Simps.sparc 
 http://107.174.217.134/bins/Simps.x86_64 
+http://45.14.148.234/w.sh
+http://45.14.148.234/c.sh
+http://45.14.148.234/arm
+http://45.14.148.234/arm5
+http://45.14.148.234/arm6
+http://45.14.148.234/arm7
+http://45.14.148.234/sh4
+http://45.14.148.234/arc
+http://45.14.148.234/mips 
+http://45.14.148.234/mipsel 
+http://45.14.148.234/sparc
+http://45.14.148.234/x86_64 
+http://45.14.148.234/i686 
+http://45.14.148.234/i586 
