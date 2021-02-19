@@ -572,3 +572,5 @@ http://45.10.24.43/mipsel
 http://45.10.24.43/ppc 
 http://45.10.24.43/sh4
 http://45.10.24.43/x86_64 
+http://195.58.38.73/GoOgle.sh 
+http://27.120.98.19/e-chusya/m
