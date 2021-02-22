@@ -616,6 +616,16 @@ http://45.153.203.9/batkek/powerpc
 http://45.153.203.9/batkek/sh4
 http://45.153.203.9/batkek/sparc 
 http://45.153.203.9/batkek/x86_64 
+http://45.153.203.9/suk.out.arm 
+http://45.153.203.9/suk.out.arm5 
+http://45.153.203.9/suk.out.arm7 
+http://45.153.203.9/suk.out.i686 
+http://45.153.203.9/suk.out.m68k 
+http://45.153.203.9/suk.out.mips 
+http://45.153.203.9/suk.out.mpsl 
+http://45.153.203.9/suk.out.ppc 
+http://45.153.203.9/suk.out.sh4 
+http://45.153.203.9/suk.out.x86_64
 http://45.151.68.222/incubusdream.sh 
 http://5.255.97.103/Ciabins.sh 
 http://swiftmsl.com/wp-content/ug.txt
