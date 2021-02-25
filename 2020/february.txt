@@ -629,3 +629,5 @@ http://45.153.203.9/suk.out.x86_64
 http://45.151.68.222/incubusdream.sh 
 http://5.255.97.103/Ciabins.sh 
 http://swiftmsl.com/wp-content/ug.txt
+http://198.23.212.27/we.sh 
+http://198.23.212.27/high/iman 
