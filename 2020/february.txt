@@ -754,3 +754,5 @@ http://192.210.175.130/sparc
 http://192.210.175.130/armv4l
 http://192.210.175.130/armv5l
 http://192.210.175.130/powerpc-440fp 
+http://startbinmanager.epelcdn.com/dd09162/init.sh  
+http://sh.epelcdn.com/dd09162/phpupdate 
