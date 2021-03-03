@@ -156,3 +156,5 @@ http://199.19.226.25/nXejnFjen/mips
 http://199.19.226.25/nXejnFjen/mipsel 
 http://199.19.226.25/nXejnFjen/armv4l 
 http://199.19.226.25/nXejnFjen/armv7l 
+http://178.33.145.40/bomba.x86
+http://193.109.217.15/bins/Astra.arm7 
