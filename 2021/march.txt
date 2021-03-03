@@ -158,3 +158,17 @@ http://199.19.226.25/nXejnFjen/armv4l
 http://199.19.226.25/nXejnFjen/armv7l 
 http://178.33.145.40/bomba.x86
 http://193.109.217.15/bins/Astra.arm7 
+http://107.174.44.147/pXdN91.sh
+http://107.174.44.147/pXdN91.mips 
+http://107.174.44.147/pXdN91.mipsel 
+http://107.174.44.147/pXdN91.sh4 
+http://107.174.44.147/pXdN91.x68 
+http://107.174.44.147/pXdN91.armv6l 
+http://107.174.44.147/pXdN91.i686 
+http://107.174.44.147/pXdN91.ppc 
+http://107.174.44.147/pXdN91.i586 
+http://107.174.44.147/pXdN91.m68k 
+http://107.174.44.147/pXdN91.sparc
+http://107.174.44.147/pXdN91.armv4l
+http://107.174.44.147/pXdN91.armv5l 
+http://107.174.44.147/pXdN91.armv7l  
