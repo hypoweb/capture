@@ -138,7 +138,7 @@ http://45.141.56.66/bins/i586
 http://45.141.56.66/bins/i686 
 http://45.141.56.66/bins/m68k 
 http://45.141.56.66/bins/mips 
-http://45.141.56.66/bins/mupsel 
+http://45.141.56.66/bins/mipsel 
 http://45.141.56.66/bins/powerpc 
 http://45.141.56.66/bins/powerpc-440fp 
 http://45.141.56.66/bins/sh4 
