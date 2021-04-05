@@ -119,3 +119,13 @@ http://93.190.93.41/ldpto/Akitaskid.sh4
 http://93.190.93.41/ldpto/Akitaskid.spc 
 http://93.190.93.41/ldpto/Akitaskid.x86 
 http://93.190.93.41/ldpto/Akitaskid.x86_64 
+http://162.246.22.210/sh.sh
+http://162.246.22.210/c.sh
+http://162.246.22.210/uwu/x86
+http://162.246.22.210/uwu/arm
+http://162.246.22.210/uwu/arm5
+http://162.246.22.210/uwu/arm6
+http://162.246.22.210/uwu/arm7
+http://162.246.22.210/uwu/mips
+http://162.246.22.210/uwu/mpsl
+http://162.246.22.210/uwu/ppc
