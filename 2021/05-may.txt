@@ -119,3 +119,15 @@ http://31.210.20.138/mipsel
 http://31.210.20.138/sparc
 http://31.210.20.138/x86_64
 http://107.174.35.243/bins/mips.cloudbot
+http://108.174.62.168/Hilix.sh
+http://108.174.62.168/bins/Hilix.x86
+http://108.174.62.168/bins/Hilix.mips
+http://108.174.62.168/bins/Hilix.mpsl
+http://108.174.62.168/bins/Hilix.arm4
+http://108.174.62.168/bins/Hilix.arm5
+http://108.174.62.168/bins/Hilix.arm6
+http://108.174.62.168/bins/Hilix.arm7
+http://108.174.62.168/bins/Hilix.ppc
+http://108.174.62.168/bins/Hilix.m68k
+http://108.174.62.168/bins/Hilix.sh4
+http://179.43.176.41/1a9zxq/meth.mpsl
