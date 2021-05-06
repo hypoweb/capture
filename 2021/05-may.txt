@@ -163,3 +163,14 @@ http://45.9.148.37/E5DB0E07C3D7BE80V201007/init.sh
 http://195.189.226.54/bb.sh
 http://195.189.226.54/wget.sh
 http://195.189.226.54/curl.sh
+http://188.127.235.139/beastmode/b3astmode.arm
+http://188.127.235.139/beastmode/b3astmode.arm5
+http://188.127.235.139/beastmode/b3astmode.arm6
+http://188.127.235.139/beastmode/b3astmode.arm7
+http://188.127.235.139/beastmode/b3astmode.m68k
+http://188.127.235.139/beastmode/b3astmode.mips
+http://188.127.235.139/beastmode/b3astmode.mpsl
+http://188.127.235.139/beastmode/b3astmode.ppc
+http://188.127.235.139/beastmode/b3astmode.sh4
+http://188.127.235.139/beastmode/b3astmode.spc
+http://188.127.235.139/beastmode/b3astmode.x86
