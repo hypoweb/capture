@@ -145,3 +145,21 @@ http://185.233.186.56/bot.powerpc
 http://185.233.186.56/bot.x86
 http://185.233.186.56/bot.x86_64
 http://185.233.186.56/bot.superh
+http://45.61.136.142/script/awgetn
+http://45.61.136.142/script/bboxwget http://45.61.136.142/script/bboxcurl
+http://45.61.136.142/script/acurln 
+http://45.61.136.142/arm
+http://45.61.136.142/arm4
+http://45.61.136.142/arm5
+http://45.61.136.142/arm6
+http://45.61.136.142/arm7
+http://45.61.136.142/m68k
+http://45.61.136.142/mips
+http://45.61.136.142/mipsel
+http://45.61.136.142/ppc
+http://45.61.136.142/sh4
+http://45.61.136.142/x86_64
+http://45.9.148.37/E5DB0E07C3D7BE80V201007/init.sh
+http://195.189.226.54/bb.sh
+http://195.189.226.54/wget.sh
+http://195.189.226.54/curl.sh
