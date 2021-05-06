@@ -131,3 +131,17 @@ http://108.174.62.168/bins/Hilix.ppc
 http://108.174.62.168/bins/Hilix.m68k
 http://108.174.62.168/bins/Hilix.sh4
 http://179.43.176.41/1a9zxq/meth.mpsl
+http://185.233.186.56/kr
+http://185.233.186.56/b
+http://185.233.186.56/f
+http://185.233.186.56/p
+http://185.233.186.56/bot.arm4
+http://185.233.186.56/bot.arm5
+http://185.233.186.56/bot.arm6
+http://185.233.186.56/bot.arm7
+http://185.233.186.56/bot.mips
+http://185.233.186.56/bot.mipsel
+http://185.233.186.56/bot.powerpc
+http://185.233.186.56/bot.x86
+http://185.233.186.56/bot.x86_64
+http://185.233.186.56/bot.superh
