@@ -146,7 +146,8 @@ http://185.233.186.56/bot.x86
 http://185.233.186.56/bot.x86_64
 http://185.233.186.56/bot.superh
 http://45.61.136.142/script/awgetn
-http://45.61.136.142/script/bboxwget http://45.61.136.142/script/bboxcurl
+http://45.61.136.142/script/bboxwget 
+http://45.61.136.142/script/bboxcurl
 http://45.61.136.142/script/acurln 
 http://45.61.136.142/arm
 http://45.61.136.142/arm4
