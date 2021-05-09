@@ -192,3 +192,8 @@ http://103.3.63.84/mipsel
 http://103.3.63.84/ppc
 http://103.3.63.84/sh4
 http://103.3.63.84/x86_64
+http://198.98.56.65/krax
+http://45.147.77.236/cache
+http://can6dodp.servepics.com/setup
+http://can6dodp.servepics.com/xmrig
+http://can6dodp.servepics.com/xmrig1
