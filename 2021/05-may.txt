@@ -197,3 +197,4 @@ http://45.147.77.236/cache
 http://can6dodp.servepics.com/setup
 http://can6dodp.servepics.com/xmrig
 http://can6dodp.servepics.com/xmrig1
+http://125.26.22.53/scripts/23s
