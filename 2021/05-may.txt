@@ -161,6 +161,8 @@ http://45.61.136.142/ppc
 http://45.61.136.142/sh4
 http://45.61.136.142/x86_64
 http://45.9.148.37/E5DB0E07C3D7BE80V201007/init.sh
+http://185.247.117.64/cf67356/phpupdate
+http://45.9.148.37/cf67356a3333e6999999999/phpupdate
 http://195.189.226.54/bb.sh
 http://195.189.226.54/wget.sh
 http://195.189.226.54/curl.sh
