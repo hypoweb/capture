@@ -382,3 +382,12 @@ http://195.133.40.24/S1eJ3/IObeENwjsh4
 http://195.133.40.24/S1eJ3/IObeENwjx86
 http://195.133.40.24/S1eJ3/IObeENwjx64
 http://195.133.40.24/S1eJ3/IObeENwjspc
+http://51.161.77.197/bins/jaws.sh
+http://51.161.77.197/bins/aura.arm
+http://51.161.77.197/bins/aura.arm5
+http://51.161.77.197/bins/aura.arm6
+http://51.161.77.197/bins/aura.arm7
+http://170.130.172.40/lo.sh
+http://209.141.58.203/ssh
+http://45.144.225.27/bo.mpsl
+http://178.33.64.107/arm7
