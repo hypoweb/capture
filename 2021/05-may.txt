@@ -430,3 +430,14 @@ http://185.125.230.51/m-6.8-k.ISIS
 http://185.125.230.51/p-p.c-.ISIS
 http://185.125.230.51/a-r.m-4.ISIS
 http://185.125.230.51/a-r.m-5.ISIS
+http://195.133.40.213/icy.sh
+http://195.133.40.213/bins/frosty.x86
+http://195.133.40.213/bins/frosty.mips
+http://195.133.40.213/bins/frosty.mpsl
+http://195.133.40.213/bins/frosty.arm4
+http://195.133.40.213/bins/frosty.arm5
+http://195.133.40.213/bins/frosty.arm6
+http://195.133.40.213/bins/frosty.arm7
+http://195.133.40.213/bins/frosty.ppc
+http://195.133.40.213/bins/frosty.m68k
+http://195.133.40.213/bins/frosty.sh4
