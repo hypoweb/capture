@@ -441,3 +441,7 @@ http://195.133.40.213/bins/frosty.arm7
 http://195.133.40.213/bins/frosty.ppc
 http://195.133.40.213/bins/frosty.m68k
 http://195.133.40.213/bins/frosty.sh4
+http://185.172.111.214/bins/UnHAnaAW.x86
+http://startbinmanager.epelcdn.com/dd09162/init.sh
+http://193.109.217.15/bins/Astra.arm7
+http://31.210.20.50/StableBins/felonystash.x86
