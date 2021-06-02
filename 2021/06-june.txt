@@ -39,3 +39,6 @@ http://198.46.223.145/bins/Tsunami.mpsl
 http://5.206.227.228/jaw
 http://185.172.111.214/bins/UnHAnaAW.x86
 http://45.14.149.244/arm
+http://209.141.58.203/ssh
+http://107.174.35.243/bins/mips.cloudbot
+http://185.65.134.165:54909/jaws
