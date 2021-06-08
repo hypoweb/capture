@@ -98,3 +98,7 @@ http://212.192.241.127/.s4y/arm6
 http://212.192.241.127/.s4y/arm
 http://212.192.241.127/.s4y/ppc
 http://212.192.241.127/.s4y/m68k
+http://31.210.21.106/beastmode/b3astmode.arm7
+http://45.9.148.37/cf67356a3333e6999999999/init.sh 
+http://185.247.117.64/cf67356/newdat.sh
+http://185.247.117.64/cf67356/phpupdate
