@@ -151,3 +151,17 @@ http://206.81.26.46/ur0a.sh
 http://206.81.26.46/Simps/mips
 http://209.141.43.118/8UsA.sh
 http://54.37.93.40/beastmode/b3astmode.arm7
+http://helpdeskserver.epelcdn.com/dd210131/init.sh
+http://176.123.7.127/id210131/phpupdate
+http://176.123.7.127/id210131/newdat.sh
+http://75.127.6.19/bins/Tsunami.arm
+http://75.127.6.19/bins/Tsunami.arm5
+http://75.127.6.19/bins/Tsunami.arm6
+http://75.127.6.19/bins/Tsunami.arm7
+http://75.127.6.19/bins/Tsunami.m68k
+http://75.127.6.19/bins/Tsunami.mips
+http://75.127.6.19/bins/Tsunami.mpsl
+http://75.127.6.19/bins/Tsunami.ppc
+http://75.127.6.19/bins/Tsunami.sh4
+http://75.127.6.19/bins/Tsunami.spc
+http://75.127.6.19/bins/Tsunami.x86
