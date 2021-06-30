@@ -103,6 +103,7 @@ http://45.9.148.37/cf67356a3333e6999999999/init.sh
 http://185.247.117.64/cf67356/newdat.sh
 http://185.247.117.64/cf67356/phpupdate
 http://205.185.126.254/korpze_jaws.sh
+http://205.185.126.254/helios.sh
 http://205.185.126.254/bins/controller.x86
 http://205.185.126.254/bins/exxsdee.arm
 http://205.185.126.254/bins/exxsdee.arm5
@@ -276,3 +277,4 @@ http://31.210.20.142/.billgates/b4ngl4d3shS3N941.ppc
 http://31.210.20.142/.billgates/b4ngl4d3shS3N941.spc
 http://31.210.20.142/.billgates/b4ngl4d3shS3N941.m68k
 http://31.210.20.142/.billgates/b4ngl4d3shS3N941.sh4
+http://betaalverzoek.ir/binInfect.sh
