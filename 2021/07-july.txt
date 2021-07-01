@@ -1,0 +1,15 @@
+http://142.4.196.195/Simps/ur0a.sh
+http://142.4.196.195/Simps/x86_64
+http://142.4.196.195/Simps/i586
+http://142.4.196.195/Simps/mips
+http://142.4.196.195/Simps/mipsel
+http://142.4.196.195/Simps/armv4l
+http://142.4.196.195/Simps/armv5l
+http://142.4.196.195/Simps/armv6l
+http://142.4.196.195/Simps/armv7l
+http://142.4.196.195/Simps/powerpc
+http://142.4.196.195/Simps/powerpc-440fp
+http://142.4.196.195/Simps/sparc
+http://142.4.196.195/Simps/m68k
+http://142.4.196.195/Simps/i686
+http://142.4.196.195/Simps/sh4
