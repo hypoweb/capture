@@ -95,6 +95,7 @@ http://185.181.10.234/E5DB0E07C3D7BE80V520/init.sh
 http://176.123.7.127/id210131/phpupdate
 http://h.epelcdn.com/dd210131/phpupdate
 http://182.52.51.215/scripts/23
+http://182.52.51.215/scripts/23s
 http://136.144.41.194/w.sh
 http://136.144.41.194/uwu/arm
 http://136.144.41.194/uwu/arm5
