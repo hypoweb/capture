@@ -109,3 +109,9 @@ http://136.144.41.194/uwu/ppc
 http://136.144.41.194/uwu/x86
 http://136.144.41.194/uwu/spc
 http://195.133.40.213/icy.sh
+http://209.141.41.11/jaws
+http://212.192.241.127/eb0t.sh
+http://212.192.241.72/lolol.sh
+http://75.127.6.19/beastmode/b3astmode.arm7
+http://hardbotz.cc/arm7
+http://108.174.62.168/beastmode/b3astmode.arm7
