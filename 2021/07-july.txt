@@ -115,3 +115,17 @@ http://212.192.241.72/lolol.sh
 http://75.127.6.19/beastmode/b3astmode.arm7
 http://hardbotz.cc/arm7
 http://108.174.62.168/beastmode/b3astmode.arm7
+http://185.172.110.235/azzy/wwg.sh
+http://185.172.110.235/azzy/bwwg.sh
+http://185.172.110.235/azzy/bbcl.sh
+http://185.172.110.235/azzy/ccl.sh
+http://185.172.110.235/arm
+http://185.172.110.235/arm5
+http://185.172.110.235/arm6
+http://185.172.110.235/arm7
+http://185.172.110.235/m68k
+http://185.172.110.235/mips
+http://185.172.110.235/mipsel
+http://185.172.110.235/ppc
+http://185.172.110.235/sh4
+http://185.172.110.235/x86_64
